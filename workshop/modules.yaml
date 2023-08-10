@@ -1,0 +1,12 @@
+modules:
+    01_welcome:
+        name: Welcome
+        exit_sign: Review Environment
+    02_review_environment:
+        name: Review Environment
+        exit_sign: Citrix Virtual Apps and Desktops
+    03_citrix_vad:
+        name: Citrix Virtual Apps and Desktops
+        exit_sign: Thanks
+    04_thanks:
+        name: Thanks

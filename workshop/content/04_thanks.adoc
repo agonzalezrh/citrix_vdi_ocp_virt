@@ -1,0 +1,3 @@
+== Thanks for attending the Citrix VDI on OpenShift Virtualization Demo
+
+During this session you learned the basics of OpenShift Virtualization and how to configure Citrix Virtual Applications and Desktop.
