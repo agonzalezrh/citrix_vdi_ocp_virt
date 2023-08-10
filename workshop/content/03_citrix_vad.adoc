@@ -57,7 +57,7 @@ image::images/StoreFront_DC.png[]
 +
 The delivery controller (`citrix.win.example.com`) is not accessible.
 
-. In the `Alternative Delivery Controller` introduce `%citrixgw_host` and press *Connect*
+. In the `Alternative Delivery Controller` introduce `%citrixgw_host%` and press *Connect*
 +
 image::images/Alternative_DC.png[]
 
